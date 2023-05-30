@@ -16,7 +16,7 @@ A aplicação consiste em um site onde o usuário pode adicionar tarefas para fa
 # Como executar o projeto
 
 ## VsCode
-Pode ser pelo próprio Vscode, dando o comando pelo terminal: npm start
+Pode ser pelo próprio Vscode, dando o comando pelo terminal: npm start<br>
 Ou acessar diretamente pelo link: https://heloisabbarbosa.github.io/list-web/
 
 
