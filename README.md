@@ -1,26 +1,27 @@
-# ListWeb
+## 💻 Projeto
+## ListWeb
 
-# Sobre o projeto
+## Sobre o projeto
 
 ListWeb é um projeto feito para praticar, com o obejtivo de intensificar os conhecimentos em React.js.
 
 A aplicação consiste em um site onde o usuário pode adicionar tarefas para fazer durante o dia, podendo editar/excluir/adicionar seus afazeres.
 
-# Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 ## Apps
 - VsCode
 
-## Linguagem de programção
+## 📔 Linguagem de programção
 - JavaScript / HTML - CSS
 
-# Como executar o projeto
+## Como executar o projeto
 
 ## VsCode
 Pode ser pelo próprio Vscode, dando o comando pelo terminal: npm start<br>
 Ou acessar diretamente pelo link: https://heloisabbarbosa.github.io/list-web/
 
 
-# Autor
+## Autor
 
 Heloisa Barbosa da Silva
 
